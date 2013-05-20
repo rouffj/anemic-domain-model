@@ -10,7 +10,11 @@ Backlog
 FAQ
 ---
 
-**How to have use a real, non anemic domain model with the Symfony Form component and Doctrine?**
+**How can I have access to the ~50min training video?**
+
+* You should be here in Hackday session @ SensioLabs :). Normally all hackday trainings videos are dedicated for SensioLabs employees, I will ask if i can publish the video.
+
+**How to maintain a real, non anemic domain model if my project uses Symfony Form component and/or Doctrine?**
 
 * Doctrine handles very well real domain model because it uses reflection to update directly class properties.
 * It is very hard to have a real domain model with Form component directly connected to domain entities. A recommended solution can be this one (http://verraes.net/2013/04/decoupling-symfony2-forms-from-entities/).

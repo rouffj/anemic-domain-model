@@ -1,3 +1,5 @@
+Sample app designed to illustrate "anemic domain model" concept for internal training (17/05/2013) @ SensioLabs.
+
 Backlog
 -------
 
